@@ -8,5 +8,5 @@ https://www.raywenderlich.com/158580/augmented-reality-android-googles-face-api
 Google vision API
 https://developers.google.com/vision/android/detect-faces-tutorial
 
-![](https://koenig-media.raywenderlich.com/uploads/2017/05/googly.gif)
+![Result](https://koenig-media.raywenderlich.com/uploads/2017/05/googly.gif)
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
